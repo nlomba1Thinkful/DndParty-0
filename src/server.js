@@ -1,5 +1,8 @@
 require('dotenv').config();
 const knex = require('knex');
+const pg = require('pg');
+pg.defaults.ssl =
+  process.env.NODE_ENV === 'production' ? { rejectUnauthorized: false } : false;
 
 const app = require('./app');
 
