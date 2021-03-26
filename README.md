@@ -1,6 +1,6 @@
 # DndParty
 
-[Live Link](https://dndparty.vercel.app/ 'Live Link')
+[Live Link](https://dnd-party-1.vercel.app/ 'Live Link')
 
 DndParty is a website for users to create and join parties to experience the greatest roleplaying tabletop game of all time: _Dungeons and Dragons!_
 
